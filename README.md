@@ -1,6 +1,7 @@
 # E-Learning App
 
-A new Flutter project.
+E-Learning apps students can access lessons and training materials in their own time online.
+Teachers can pre-record lessons and distribute them online.You don’t have to leave the app to get an immersive learning experience,because it has everything you could possibly need:a video player, a tab for courses and assignments. 
 
 ## Getting Started
 
